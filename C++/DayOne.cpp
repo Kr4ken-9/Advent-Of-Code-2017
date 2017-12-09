@@ -1,6 +1,4 @@
-#include <iostream>
-
-using namespace std;
+#include "Days.h"
 
 int Captcha(const std::string Input)
 {
